@@ -1,0 +1,10 @@
+如果电脑上已经安装了bower管理软件
+就可以使用bower来安装各种需要的软件
+bower install jquery
+bower install seajs
+等等
+前提是电脑需要安装git与淘宝镜像加速下载速度
+对于项目中如果有json文件 直接可以npm install 自动安装一些依赖项
+启动服务器使用gulp 
+如果是使用自动构建工具gulp那么直接可以自定义本地服务器
+同时可以自己起个名字
